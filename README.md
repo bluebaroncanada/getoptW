@@ -4,7 +4,7 @@ A completely wchar_t port of MinGW's port of getopt.c/h.  Implements getoptW, ge
 
 I really just went through all the code in the MinGW repo and replaced all instances of char with wchar_t.  This should work and it's free.  The other option on the web is GPL which means you can't use it commercially unless you compile it as a DLL.  This one is very small and light.
 
-Here's the licence preamble from the MinGW version.
+Here's the licence preamble from the MinGW version.  By using this you agree to all the same terms as well as the Selection of Venue paragraph.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -24,6 +24,11 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
+
+Selection of Venue:
+This licence is governed by the laws of Ontario, Canada and any dispute 
+shall be finally resolved by the courts in London, Ontario, Canada.
+
 
 ## Usage
 You can pretty much just follow the getopt, getopt_long, getopt_long_only docs.

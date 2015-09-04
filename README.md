@@ -6,6 +6,8 @@ I really just went through all the code in the MinGW repo and replaced all insta
 
 Here's the licence preamble from the MinGW version.  By using this you agree to all the same terms as well as the Selection of Venue paragraph.
 
+##Licence
+
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation
@@ -25,7 +27,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
-Selection of Venue:
+
+### Selection of Venue:
 
 This licence is governed by the laws of Ontario, Canada and any dispute 
 shall be finally resolved by the courts in London, Ontario, Canada.

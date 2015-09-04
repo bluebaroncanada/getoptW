@@ -26,6 +26,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
 Selection of Venue:
+
 This licence is governed by the laws of Ontario, Canada and any dispute 
 shall be finally resolved by the courts in London, Ontario, Canada.
 

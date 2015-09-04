@@ -8,6 +8,9 @@
  * will be useful but WITHOUT ANY WARRANTY.  ALL WARRANTIES, EXPRESSED OR 
  * IMPLIED ARE HEREBY DISCLAIMED.  This includes but is not limited to 
  * warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * This licence is governed by the laws of Ontario, Canada and any dispute
+ * shall be finally resolved by the courts in London, Ontario, Canada.
  */
 
 #define __GETOPTW_H__
